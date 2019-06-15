@@ -32,15 +32,9 @@ June 10th Tasks:
 Kristine:
 Figure out top authors - overall from Authors 1-5
 
-
-Carol:
-Normalize sentence case for First authors
-see if I can figure out % of total publications for each
-Plot those on Bar Graph
+Carol: Normalize sentence case for First authors see if I can figure out % of total publications for each Plot those on Bar Graph
 Incorporate Author Image to PowerPoint
 ==============================================================================
-
-
 JUNE 8th:
 Kristine:
 Figure out top 10 authors per year
