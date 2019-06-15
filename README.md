@@ -27,25 +27,23 @@ Use Pandas to clean and format your data set(s)
  Optionally, use at least one API, if you can find an API with data pertinent to your primary research questions
  Create a write-up summarizing your major findings. This should include a heading for each "question" you asked of your data, and under each heading, a short description of what you found and any relevant plots.
 
-
 June 10th Tasks:
 Kristine:
-Figure out top authors - overall from Authors 1-5
+Figure out top authors - overall from Authors 1-5.
 
-Carol: Normalize sentence case for First authors see if I can figure out % of total publications for each Plot those on Bar Graph
+Carol: 
+Normalize sentence case for First authors see if I can figure out % of total publications for each Plot those on Bar Graph
 Incorporate Author Image to PowerPoint
-==============================================================================
+
 JUNE 8th:
 Kristine:
 Figure out top 10 authors per year
 Overall top 10 authors - per # of publications
 
-
 Carol:
 Combined notebooks for MASTER charts/data
 Outline presentation contents
 Draft PowerPoint - images/contents
-
 
 JUNE 3:
 CrossRef - Affiliation - over 6 million records with University of Richmond.
